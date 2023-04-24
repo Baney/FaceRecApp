@@ -1,0 +1,15 @@
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\bin\Debug\net7.0\IPCamTestAPP.exe
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\bin\Debug\net7.0\IPCamTestAPP.deps.json
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\bin\Debug\net7.0\IPCamTestAPP.runtimeconfig.json
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\bin\Debug\net7.0\IPCamTestAPP.dll
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\bin\Debug\net7.0\IPCamTestAPP.pdb
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.csproj.AssemblyReference.cache
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.AssemblyInfoInputs.cache
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.AssemblyInfo.cs
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.csproj.CoreCompileInputs.cache
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.dll
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\refint\IPCamTestAPP.dll
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.pdb
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\IPCamTestAPP.genruntimeconfig.cache
+C:\Dev\IPCam\ImageGrabber\ImageGrabber\obj\Debug\net7.0\ref\IPCamTestAPP.dll
